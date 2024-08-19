@@ -38,7 +38,7 @@ async def bugs(_, msg: Message):
     
 
     bug_report = f"""
-#ʙᴜɢ :  tg://user?id={owner_id}
+#ʙᴜɢ :  [ʀᴇᴘᴏʀᴛ](tg://user?id={owner_id})
 
 ʀᴇᴩᴏʀᴛᴇᴅ ʙʏ :  {mention}
 ᴜsᴇʀ ɪᴅ :  {user_id}
@@ -71,7 +71,7 @@ async def bugs(_, msg: Message):
             )
             await app.send_photo(
                 -1001975521991,
-                photo="https://telegra.ph/file/f66e5843568d4b7f2a652.jpg",
+                photo="https://telegra.ph/file/86fe8a176aad4a9f25785.jpg",
                 caption=f"{bug_report}",
                 reply_markup=InlineKeyboardMarkup(
                     [
