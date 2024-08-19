@@ -1,4 +1,4 @@
-<h1 align="center">🎵 Aviax Music Bot 🎵</h1>
+<h1 align="center">🎵 Jerry Music Bot 🎵</h1>
 
 <p align="center">
   <img src="https://telegra.ph/file/29808c1fd50add3b1bfc6.jpg" alt="Aviax Music Logo" width="600" height="150">
@@ -41,7 +41,7 @@ This process will allow you to bypass the YouTube restrictions and ensure smooth
 ---
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/vikas-851/AviaxMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/un-bots/jerry)
 
 ---
 
