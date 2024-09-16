@@ -1,33 +1,4 @@
-<h1 align="center">🎵 Jerry Music Bot 🎵</h1>
 
-<p align="center">
-  <img src="https://telegra.ph/file/29808c1fd50add3b1bfc6.jpg" alt="Aviax Music Logo" width="600" height="150">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/TeamAviax/AviaxMusic?style=for-the-badge&color=blue" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/TeamAviax/AviaxMusic?style=for-the-badge&color=blue" alt="GitHub forks">
-  <img src="https://img.shields.io/github/issues/TeamAviax/AviaxMusic?style=for-the-badge&color=red" alt="GitHub issues">
-  <img src="https://img.shields.io/github/license/TeamAviax/AviaxMusic?style=for-the-badge&color=green" alt="GitHub license">
-</p>
-
-<h2 align="center">Delivering Superior Music Experience to Telegram</h2>
-
----
-
-### 🛠 Fix for YouTube Blocking VPS IPs
-
-Due to YouTube blocking VPS IPs drastically, we have implemented a fix. Follow the steps below:
-
-1. **Join our Support Group**: Type `#script` in our [support group](https://t.me/NexGenSpam) to get the necessary script.
-2. **Run the Script**: Run the downloaded script on your Windows Desktop Through VS Code or any other Software to generate cookies.
-3. **Fork the Repository**: Fork this repository to your GitHub account.
-4. **Add Cookies**: Paste the generated cookies into the `cookies` folder in your forked repository.
-5. **Deploy the Bot**: Continue with the setup instructions as outlined above.
-
-This process will allow you to bypass the YouTube restrictions and ensure smooth operation of the bot.
-
----
 
 ### 🌟 Features
 
@@ -129,7 +100,7 @@ Stay updated with the latest features and improvements to Aviax Music Bot:
 
 ### 🤝 Contributing
 
-We welcome contributions to the Aviax Music Bot project. If you'd like to contribute, please follow these steps:
+We welcome contributions to the  Music Bot project. If you'd like to contribute, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch with a meaningful name.
@@ -146,9 +117,3 @@ For more details, reach out us on telegram.
 This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
 
 ---
-
-### 🙏 Acknowledgements
-
-Thanks to all the contributors, supporters, and users of the Aviax Music Bot. Your feedback and support keep us going!
-- [Yukki Music](https://github.com/TeamYukki/YukkiMusicBot) and [AnonXMusic](https://github.com/AnonymousX1025/AnonXMusic) For their Source Codes.
-- **Special Thanks** to [SPiDER 🇮🇳](https://github.com/Surendra9123) for invaluable assistance in resolving the IP ban issue.
