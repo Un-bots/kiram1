@@ -39,8 +39,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/JerryUpdate")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/un_w0rld")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/unb_info")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/unb_support")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", True))
@@ -78,13 +78,13 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/f1eca4e8ed57f58460227.jpg"
+    "START_IMG_URL", "https://envs.sh/woM.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/23ccb28afe3d87c781c0f.jpg"
+    "PING_IMG_URL", "https://envs.sh/wo6.jpg"
 )
 PLAYLIST_IMG_URL = "https://graph.org//file/3dfcffd0c218ead96b102.png"
-STATS_IMG_URL = "https://telegra.ph/file/ab5e1397fde975753031c.jpg"
+STATS_IMG_URL = "https://telegra.ph/file/0fb5799f17005b83a8d14.jpg"
 TELEGRAM_AUDIO_URL = "https://graph.org//file/2f7debf856695e0ef0607.png"
 TELEGRAM_VIDEO_URL = "https://graph.org//file/2f7debf856695e0ef0607.png"
 STREAM_IMG_URL = "https://te.legra.ph/file/bd995b032b6bd263e2cc9.jpg"
