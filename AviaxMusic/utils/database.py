@@ -649,14 +649,14 @@ async def remove_banned_user(user_id: int):
     return await blockeddb.delete_one({"user_id": user_id})
 
 # utils/database.py
-
-async def get_play_command_count():
-    data = await mongodb.stats.find_one({"_id": "command_usage"})
-    return data.get("play_count", 0)
-
-async def increment_play_command_count():
-    await mongodb.stats.update_one(
-        {"_id": "command_usage"},
-        {"$inc": {"play_count": 1}},
-        upsert=True
-    )
+#
+#async def get_play_command_count():
+ #   data = await mongodb.stats.find_one({"_id": "command_usage"})
+#    return data.get("play_count", 0)
+#
+#async def increment_play_command_count():
+#    await mongodb.stats.update_one(
+#        {"_id": "command_usage"},
+ #       {"$inc": {"play_count": 1}},
+  #      upsert=True
+#    )
